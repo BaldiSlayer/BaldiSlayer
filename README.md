@@ -17,3 +17,6 @@ I am a student of BMSTU
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=BaldiSlayer&theme=dark&background=000000)](https://git.io/streak-stats)
 
+### Extra info
+- [leetcode](https://leetcode.com/BaldiSlayer/)
+- [resume](https://github.com/BaldiSlayer/resume)
