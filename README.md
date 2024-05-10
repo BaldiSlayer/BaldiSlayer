@@ -20,7 +20,7 @@ I am a student of BMSTU and ex-intern of Yandex Cloud Security & Compliance
 ### Socials
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/Irochka_Hazker)
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/BaldiSlayer/)
-[![resume](https://img.shields.io/badge/-resume-090909?style=for-the-badge&logo=resume&logoColor=#F0E68C)](https://github.com/BaldiSlayer/resume)
+[![resume](https://img.shields.io/badge/-resume-090909?style=for-the-badge&logo=webpack&logoColor=#F0E68C)](https://github.com/BaldiSlayer/resume)
 
 
 
