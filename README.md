@@ -25,4 +25,4 @@ I am a student of BMSTU
 
 
 ### Extra info
-- [resume](https://github.com/BaldiSlayer/resume)
+[![resume](https://img.shields.io/badge/-resume-090909?style=for-the-badge&logo=resume&logoColor=#F0E68C)](https://github.com/BaldiSlayer/resume)
