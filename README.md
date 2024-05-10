@@ -6,7 +6,7 @@ I am a student of BMSTU
 
 - :zap: In my free time, I solve problems on leetcode and codeforces
 
-- former intern of Yandex Cloud Security & Compliance
+- ex-intern of Yandex Cloud Security & Compliance
 
 ### :hammer_and_wrench: Languages and Tools :
 ![Golang](https://img.shields.io/badge/-Go-090909?style=for-the-badge&logo=Go&logoColor=#F0E68C)
