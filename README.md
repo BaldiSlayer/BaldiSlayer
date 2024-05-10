@@ -19,6 +19,9 @@ I am a student of BMSTU
 ![Terraform](https://img.shields.io/badge/-Terraform-090909?style=for-the-badge&logo=Terraform&logoColor=#F0E68C)
 
 
+### Socials
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/Irochka_Hazker)
+
 
 ### Extra info
 - [leetcode](https://leetcode.com/BaldiSlayer/)
