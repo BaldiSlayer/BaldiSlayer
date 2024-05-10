@@ -24,3 +24,5 @@ I am a student of BMSTU and ex-intern of Yandex Cloud Security & Compliance
 
 ### Extra info
 [![resume](https://img.shields.io/badge/-resume-090909?style=for-the-badge&logo=resume&logoColor=#F0E68C)](https://github.com/BaldiSlayer/resume)
+
+![stat](https://github-readme-stats.vercel.app/api?username=BaldiSlayer&show_icons=true&include_all_commits=true&theme=github_dark)
