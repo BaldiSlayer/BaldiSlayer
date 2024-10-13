@@ -1,6 +1,6 @@
 ### :man_technologist: About Me 
 
-I am a student of BMSTU and ex-intern of Yandex Cloud Security & Compliance
+I am a student of BMSTU and Junior Go Backend Developer
 
 - :telescope: Now I am most interested in backend development and DevOps (I really enjoyed working with Kubernetes)
 
