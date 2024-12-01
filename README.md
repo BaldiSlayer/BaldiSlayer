@@ -2,7 +2,7 @@
 
 I am a student of BMSTU and Junior Go Backend Developer
 
-- :telescope: Now I am most interested in backend development and DevOps (I really enjoyed working with Kubernetes)
+- :telescope: Now I am most interested in backend development and Kubernetes
 
 - :zap: In my free time, I solve problems on leetcode and codeforces
 
