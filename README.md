@@ -4,8 +4,6 @@ I am a student of BMSTU and Junior Go Backend Developer
 
 - :telescope: Now I am most interested in backend development and Kubernetes
 
-- :zap: In my free time, I solve problems on leetcode and codeforces
-
 ### :hammer_and_wrench: Languages and Tools
 ![Golang](https://img.shields.io/badge/-Go-090909?style=for-the-badge&logo=Go&logoColor=#F0E68C)
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=Python&logoColor=#F0E68C)
