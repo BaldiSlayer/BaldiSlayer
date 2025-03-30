@@ -1,6 +1,6 @@
 ### :man_technologist: About Me 
 
-I am a student of BMSTU and Middle Go Backend Developer
+I am Go Backend Developer
 
 - :telescope: Now I am most interested in backend development and Kubernetes
 
