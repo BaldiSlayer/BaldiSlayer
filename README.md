@@ -1,6 +1,6 @@
 ### :man_technologist: About Me 
 
-I am Go Backend Developer
+Go Backend Developer 🤡
 
 ### :hammer_and_wrench: Languages and Tools
 ![Golang](https://img.shields.io/badge/-Go-090909?style=for-the-badge&logo=Go&logoColor=#F0E68C)
