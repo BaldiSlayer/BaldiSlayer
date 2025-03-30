@@ -2,8 +2,6 @@
 
 I am Go Backend Developer
 
-- :telescope: Now I am most interested in backend development and Kubernetes
-
 ### :hammer_and_wrench: Languages and Tools
 ![Golang](https://img.shields.io/badge/-Go-090909?style=for-the-badge&logo=Go&logoColor=#F0E68C)
 ![Docker](https://img.shields.io/badge/-Docker-090909?style=for-the-badge&logo=Docker&logoColor=#FFA500)
